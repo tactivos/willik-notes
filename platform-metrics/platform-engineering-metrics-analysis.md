@@ -1,6 +1,6 @@
 # Platform Engineering Metrics: Gap Analysis and Architecture Proposal
 
-Author: Willis Kirkham, Staff Software Engineer, Platform Engineering
+Author: Willis Kirkham, Staff Software Engineer, Platform Engineering  
 Date updated: 2026-02-01
 
 ## Summary

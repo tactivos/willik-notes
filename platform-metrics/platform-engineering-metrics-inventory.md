@@ -1,6 +1,6 @@
 # Platform Engineering Metrics Inventory
 
-Author: Willis Kirkham, Staff Software Engineer, Platform Engineering
+Author: Willis Kirkham, Staff Software Engineer, Platform Engineering  
 Date updated: 2025-02-02
 
 ## Summary
