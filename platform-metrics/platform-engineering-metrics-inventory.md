@@ -1,5 +1,8 @@
 # Platform Engineering Metrics Inventory
 
+Author: Willis Kirkham, Staff Software Engineer, Platform Engineering
+Date updated: 2025-02-02
+
 ## Summary
 
 This document catalogs the metrics data currently collected by the Platform Engineering team across developer tooling, CI/CD, testing, and deployment tracking.
